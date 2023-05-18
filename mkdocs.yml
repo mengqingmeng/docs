@@ -1,3 +1,5 @@
-site_name: My Docs
+site_name: 始于足下
 theme:
   name: material
+  logo: assets/pp.png
+  favicon: assets/pp.png
