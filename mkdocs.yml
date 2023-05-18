@@ -20,3 +20,7 @@ plugins:
       post_date_format: full
       post_url_date_format: yyyy/MM/dd
 
+nav:
+  - Blog:
+    - blog/index.md 
+
