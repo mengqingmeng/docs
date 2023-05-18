@@ -7,11 +7,12 @@ theme:
     - navigation.tabs
     - navigation.path
     - toc.integrate
+    - search.suggest
 plugins:
   - search:
-    lang: 
-      - zh
-      - en
+      lang: 
+        - zh
+        - en
   - social:
       cards_layout: default/variant
   - blog:
