@@ -22,5 +22,6 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install jieba
+      - run: pip install pillow cairosvg
       - run: pip install mkdocs-material 
       - run: mkdocs gh-deploy --force
