@@ -18,7 +18,7 @@ plugins:
 
 nav:
   - C++ :
-    - cpp/index.md
-    - Page1 : cpp/page-1.md
-    - Pagen : cpp/page-n.md
+    - 目录: cpp/index.md
+    - 运算符重载: cpp/operator-override.md
+    - 指针 : cpp/pointer.md
 
