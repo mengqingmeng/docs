@@ -2,7 +2,7 @@ site_name: Keep
 theme:
   name: material
   logo: assets/pp.png
-  favicon: images/pp.ico
+  favicon: assets/pp.png
   features:
     - navigation.tabs
     - navigation.path
