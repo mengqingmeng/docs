@@ -16,3 +16,9 @@ plugins:
   - social:
       cards_layout: default/variant
 
+nav:
+  - Sectioin:
+    - section/index.md
+    - Page1 : section/page-1.md
+    - Pagen : section/page-n.md
+
