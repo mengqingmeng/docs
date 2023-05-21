@@ -17,8 +17,8 @@ plugins:
       cards_layout: default/variant
 
 nav:
-  - Sectioin:
-    - section/index.md
-    - Page1 : section/page-1.md
-    - Pagen : section/page-n.md
+  - C++ :
+    - cpp/index.md
+    - Page1 : cpp/page-1.md
+    - Pagen : cpp/page-n.md
 
